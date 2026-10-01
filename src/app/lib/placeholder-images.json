@@ -1,0 +1,53 @@
+
+{
+  "placeholderImages": [
+    {
+      "id": "hero-chef",
+      "description": "Professional executive chef leading a team in a kitchen",
+      "imageUrl": "https://images.unsplash.com/photo-1583394293214-28dea15ee548?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxleGVjdXRpdmUlMjBjaGVmJTIwbGVhZGluZ3xlbnwwfHx8fDE3NzI0OTM1MDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "executive chef leading"
+    },
+    {
+      "id": "tandoori-chicken",
+      "description": "Authentic Indian Tandoori Chicken with grill marks",
+      "imageUrl": "https://images.unsplash.com/photo-1657205937707-940bf77b2602?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHx0YW5kb29yaSUyMGNoaWNrZW58ZW58MHx8fHwxNzcyNDc1NTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "tandoori chicken"
+    },
+    {
+      "id": "chinese-dimsum",
+      "description": "Steaming baskets of artisanal Chinese dim sum",
+      "imageUrl": "https://images.unsplash.com/photo-1518983546435-91f8b87fe561?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxkaW0lMjBzdW18ZW58MHx8fHwxNzcyNDc1NTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dim sum"
+    },
+    {
+      "id": "fine-dining-plate",
+      "description": "Artfully plated modern continental dish with bright lighting",
+      "imageUrl": "https://images.unsplash.com/photo-1559339352-11d035aa65de?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxnb3VybWV0JTIwcGxhdGV8ZW58MHx8fHwxNzcyNDkzNTAwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet plate"
+    },
+    {
+      "id": "chef-action",
+      "description": "Chef expertly tossing food in a wok",
+      "imageUrl": "https://images.unsplash.com/photo-1577219492769-b63a779fac28?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxjaGVmJTIwY29va2luZ3xlbnwwfHx8fDE3NzI0NTg3NjF8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chef cooking"
+    },
+    {
+      "id": "signature-lamb",
+      "description": "Slow-braised lamb shanks with saffron rice",
+      "imageUrl": "https://images.unsplash.com/photo-1640805392553-7dd34f379cec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnJhaXNlZCUyMGxhbWJ8ZW58MHx8fHwxNzcyNDc1NTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "braised lamb"
+    },
+    {
+      "id": "kitchen-detail",
+      "description": "Macro shot of fresh spices and herbs",
+      "imageUrl": "https://images.unsplash.com/photo-1543833641-0425ff116e59?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxjdWxpbmFyeSUyMHNwaWNlc3xlbnwwfHx8fDE3NzI0NzU1OTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "culinary spices"
+    },
+    {
+      "id": "dessert-creation",
+      "description": "Deconstructed modern dessert with berries",
+      "imageUrl": "https://images.unsplash.com/photo-1761315631531-6994151ed319?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Z291cm1ldCUyMGRlc3NlcnR8ZW58MHx8fHwxNzcyNDc1NTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "gourmet dessert"
+    }
+  ]
+}

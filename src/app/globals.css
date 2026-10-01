@@ -1,0 +1,72 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 0 0% 100%;
+    --foreground: 20 20% 10%;
+    --card: 0 0% 100%;
+    --card-foreground: 20 20% 10%;
+    --primary: 15 100% 60%; /* Vibrant Tandoor Orange-Red */
+    --primary-foreground: 0 0% 100%;
+    --secondary: 20 10% 96%;
+    --secondary-foreground: 20 20% 10%;
+    --muted: 20 10% 94%;
+    --muted-foreground: 20 10% 40%;
+    --accent: 15 100% 60%;
+    --accent-foreground: 0 0% 100%;
+    --destructive: 0 84.2% 60.2%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 20 10% 90%;
+    --input: 20 10% 90%;
+    --ring: 15 100% 60%;
+    --radius: 1.5rem;
+  }
+
+  .dark {
+    --background: 36 12% 8%; /* Deep Charcoal Brown */
+    --foreground: 0 0% 98%;
+    --card: 36 12% 10%;
+    --card-foreground: 0 0% 98%;
+    --popover: 36 12% 8%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 60 100% 50%; /* Brilliant Electric Yellow */
+    --primary-foreground: 0 0% 0%;
+    --secondary: 36 10% 15%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 36 10% 15%;
+    --muted-foreground: 36 10% 60%;
+    --accent: 60 100% 50%;
+    --accent-foreground: 0 0% 0%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 36 10% 20%;
+    --input: 36 10% 20%;
+    --ring: 60 100% 50%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  html {
+    scroll-behavior: smooth;
+  }
+  body {
+    @apply bg-background text-foreground selection:bg-primary/30 antialiased overflow-x-hidden;
+  }
+  h1, h2, h3, h4, h5, h6 {
+    @apply font-headline uppercase tracking-tighter;
+  }
+}
+
+.noise-overlay {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  pointer-events: none;
+  opacity: 0.03;
+  background-image: url("data:image/svg+xml,%3Csvg viewBox='0 0 200 200' xmlns='http://www.w3.org/2000/svg'%3E%3Cfilter id='noiseFilter'%3E%3CfeTurbulence type='fractalNoise' baseFrequency='0.65' numOctaves='3' stitchTiles='stitch'/%3E%3C/filter%3E%3Crect width='100%25' height='100%25' filter='url(%23noiseFilter)'/%3E%3C/svg%3E");
+}

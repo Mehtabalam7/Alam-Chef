@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-chef",
+      "description": "Chef MD Mushtaque Alam - Professional portrait",
+      "imageUrl": "/images/portfolio/main.jpeg",
+      "imageHint": "executive chef"
+    },
+    {
+      "id": "tandoori-chicken",
+      "description": "Authentic Indian Tandoori Chicken with grill marks",
+      "imageUrl": "/images/dishes/tandoor.png",
+      "imageHint": "tandoori chicken"
+    },
+    {
+      "id": "chinese-noodles",
+      "description": "Wok-fired Chinese noodles with vegetables",
+      "imageUrl": "https://images.unsplash.com/photo-1585032226651-759b368d7246?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxub29kbGVzfGVufDB8fHx8MTc3MjQ3NTU5M3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "chinese noodles"
+    },
+    {
+      "id": "biryani-dish",
+      "description": "Fragrant Hyderabadi Dum Biryani with saffron",
+      "imageUrl": "/images/dishes/biryani.png",
+      "imageHint": "hyderabadi biryani"
+    },
+    {
+      "id": "chef-action",
+      "description": "Chef MD Mushtaque Alam - About section portrait",
+      "imageUrl": "/images/portfolio/about.jpeg",
+      "imageHint": "chef portrait"
+    },
+    {
+      "id": "fried-rice",
+      "description": "Fluffy Asian fried rice with colorful vegetables and protein",
+      "imageUrl": "/images/dishes/friedrice.jpeg",
+      "imageHint": "fried rice"
+    },
+    {
+      "id": "haleem-dish",
+      "description": "Slow-braised lamb with lentils and spices",
+      "imageUrl": "/images/dishes/haleem.png",
+      "imageHint": "slow-cooked haleem"
+    },
+    {
+      "id": "signature-lamb",
+      "description": "Slow-braised lamb shanks with saffron rice",
+      "imageUrl": "https://images.unsplash.com/photo-1640805392553-7dd34f379cec?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8YnJhaXNlZCUyMGxhbWJ8ZW58MHx8fHwxNzcyNDc1NTkzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "braised lamb"
+    },
+    {
+      "id": "kunafa-dessert",
+      "description": "Crispy golden Kunafa with syrup and pistachios",
+      "imageUrl": "/images/dishes/kunafa.jpeg",
+      "imageHint": "golden kunafa"
+    },
+    {
+      "id": "mandi-dish",
+      "description": "Traditional Arabian Mandi with roasted lamb",
+      "imageUrl": "/images/dishes/mandi.png",
+      "imageHint": "mandi rice"
+    },
+    {
+      "id": "kitchen-detail",
+      "description": "Rich aromatic curry with creamy sauce",
+      "imageUrl": "/images/dishes/curry.jpeg",
+      "imageHint": "signature curry"
+    },
+    {
+      "id": "dessert-creation",
+      "description": "Creamy artisanal pudding dessert",
+      "imageUrl": "/images/dishes/pudding.jpg",
+      "imageHint": "creamy pudding"
+    },
+    {
+      "id": "gulab-jamun",
+      "description": "Golden-brown gulab jamun sweets in aromatic sugar syrup",
+      "imageUrl": "/images/dishes/gulab.jpeg",
+      "imageHint": "gulab jamun"
+    }
+  ]
+}
