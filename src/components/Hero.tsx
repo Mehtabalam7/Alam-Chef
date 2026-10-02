@@ -71,7 +71,11 @@ export function Hero() {
                 className="rounded-full border-2 border-primary/60 hover:bg-primary hover:text-primary-foreground transition-all uppercase tracking-[0.2em] text-[10px] font-black px-6 py-3 h-auto shadow-lg shadow-primary/5"
                 asChild
               >
-                <a href="#" onClick={(e) => e.preventDefault()}>
+                <a
+                  href="https://drive.google.com/file/d/1gBvGSCN3D1ZsEDbEtR-QJmgdAJ1sMCx2/view?usp=sharing"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
                   <FileText className="w-4 h-4 mr-2" />
                   View Resume
                 </a>
