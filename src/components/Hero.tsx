@@ -50,7 +50,7 @@ export function Hero() {
               fill
               className="object-cover transition-all duration-1000 ease-out brightness-100 contrast-105"
               priority
-              data-ai-hint="executive chef"
+              data-ai-hint="master chef"
             />
           </div>
 
@@ -62,7 +62,7 @@ export function Hero() {
             <div className="mt-4 lg:mt-8 space-y-6 max-w-[280px] md:max-w-[320px] text-center lg:text-left flex flex-col items-center lg:items-start">
               <div className="space-y-4">
                 <p className="text-muted-foreground text-[14px] md:text-base font-light leading-relaxed tracking-wide">
-                  Executive Chef with {yearsOfExperience}+ years of expertise in authentic Indian cuisine, specializing in Tandoor and Kebabs.
+                  Master Chef with {yearsOfExperience}+ years of expertise in authentic Indian cuisine, specializing in Tandoor and Kebabs.
                 </p>
                 <div className="w-8 h-[1px] bg-primary mx-auto lg:mx-0"></div>
               </div>
